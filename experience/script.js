@@ -65,8 +65,8 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Jigar Sable";
-        $("#favicon").attr("href","/assets/images/favicon.png");
+        document.title = "Experience | Portfolio Daniel Whooley";
+        $("#favicon").attr("href","/assets/images/favicon.jpg");
     }
     else {
         document.title = "Come Back To Portfolio";
