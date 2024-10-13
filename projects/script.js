@@ -25,7 +25,7 @@ document.addEventListener('visibilitychange',
         }
         else {
             document.title = "Daniel Whooley";
-            $("#favicon").attr("href", "/assets/images/favhand.png");
+            $("#favicon").attr("href", "/assets/images/favicon.png");
         }
     });
 
