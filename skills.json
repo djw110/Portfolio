@@ -1,15 +1,15 @@
 [
     {
         "name": "HTML",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
     },
     {
         "name": "CSS",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+        "icon": "https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000"
     },
     {
         "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "icon": "https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000"
     },
     {
         "name": "LaTeX",
@@ -17,23 +17,23 @@
     },
     {
         "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+        "icon": "https://img.icons8.com/?size=100&id=39852&format=png&color=000000"
     },
     {
         "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
     },
     {
         "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+        "icon": "https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000"
     },
     {
         "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+        "icon": "https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000"
     },
     {
         "name": "Git",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "icon": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
     },
     {
         "name": "TensorFlow",
