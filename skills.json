@@ -13,7 +13,7 @@
     },
     {
         "name": "LaTeX",
-        "icon": "https://img.icons8.com/icon/piVHs2bMOs6P/texshop"
+        "icon": "https://img.icons8.com/?size=100&id=piVHs2bMOs6P&format=png&color=000000"
     },
     {
         "name": "PHP",
@@ -37,18 +37,18 @@
     },
     {
         "name": "TensorFlow",
-        "icon": "https://img.icons8.com/icon/n3QRpDA7KZ7P/tensorflow"
+        "icon": "https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"
     },
     {
         "name": "PyTorch",
-        "icon": "https://img.icons8.com/icon/jH4BpkMnRrU5/pytorch"
+        "icon": "https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000"
     },
     {
         "name": "Lua",
-        "icon": "https://img.icons8.com/icon/mazno5QJBBis/lua-is-a-lightweight%2C-multi-paradigm-programming-language."
+        "icon": "https://img.icons8.com/?size=100&id=mazno5QJBBis&format=png&color=000000"
     },
     {
         "name": "Linux",
-        "icon": "https://img.icons8.com/icon/17842/linux"
+        "icon": "https://img.icons8.com/?size=100&id=17842&format=png&color=000000"
     }
 ]
