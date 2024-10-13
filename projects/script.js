@@ -56,7 +56,6 @@ function showProjects(projects) {
           <p>${project.desc}</p>
           <div class="btns">
             <a href="${project.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
-            <a href="${project.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
           </div>
         </div>
       </div>
@@ -64,6 +63,13 @@ function showProjects(projects) {
     </div>`
     });
     projectsContainer.innerHTML = projectsHTML;
+
+
+    /*
+    Goes next to view:: <a href="${project.links.code}" className="btn" target="_blank">Code <i className="fas fa-code"></i></a>
+    */
+
+
 
     // vanilla tilt.js
     // VanillaTilt.init(document.querySelectorAll(".tilt"), {
@@ -96,7 +102,7 @@ function showProjects(projects) {
         $('.button-group').find('.is-checked').removeClass('is-checked');
         $(this).addClass('is-checked');
         var filterValue = $(this).attr('data-filter');
-        $grid.isotope({ filter: filterValue });
+        $grid.isotope({filter: filterValue});
     });
 }
 
