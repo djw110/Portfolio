@@ -11,7 +11,7 @@
   },
   {
     "name": "CATBooks",
-    "desc": "Built a book-sharing website where users can post books and add reviews/comments. Calculates ratings and shows top performing books.",
+    "desc": "Created a database and designed a book-sharing website where users can post books and add reviews/comments. Calculates ratings, stores user data, and shows top performing books",
     "image": "catbooks",
     "category": "web",
     "links": {
