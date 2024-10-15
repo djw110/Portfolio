@@ -1,7 +1,7 @@
 [
   {
     "name": "PiPedal",
-    "desc": "Fully built guitar pedal connected to it's own online application. Uses neural networks to detect external sound effects and replicate them.",
+    "desc": "Built and programmed a guitar pedal and it's own online application. Uses neural networks to detect external sound effects and replicate them.",
     "image": "fireseekerplot",
     "category": "ml",
     "links": {
@@ -20,12 +20,12 @@
     }
   },
   {
-    "name": "ROBLOX Video Games",
-    "desc": "Developed several video games using Lua with ROBLOX generating several hundreds of thousands of players and thousands of dollars in personal revenue.",
+    "name": "Mining World",
+    "desc": "Used lua to create a virtual MMO where players fight monsters and explore alien planets. Generated several thousands of dollars in personal revenue with over 60,000 players world-wide.",
     "image": "roblox",
     "category": "game",
     "links": {
-      "view": "https://www.roblox.com/groups/5646344/Whoolio#!/about",
+      "view": "https://www.roblox.com/games/4698294459/Mining-World",
       "code": "https://github.com/"
     }
   }
