@@ -22,7 +22,7 @@ body {
 }
 
 *::selection {
-  background: #2b3dda;
+  background: #4e588b;
   color: #fff;
 }
 
@@ -117,8 +117,8 @@ header .navbar ul li a {
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
-  color: #011aff;
-  border-bottom: 0.2rem solid #011aff;
+  color: #4e588b;
+  border-bottom: 0.2rem solid #4e588b;
   padding: 0.5rem 0;
 }
 /* navbar ends */
@@ -167,7 +167,7 @@ header .navbar ul li a:hover {
     padding: 1rem;
     color: #fff;
     border-radius: 0.5rem;
-    border-bottom: 0.5rem solid #011aff;
+    border-bottom: 0.5rem solid #4e588b;
   }
   .fa-times {
     transform: rotate(180deg);
@@ -217,6 +217,7 @@ header .navbar ul li a:hover {
   border-radius: 50%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
+  filter: grayscale(0.35);
 }
 .home .image img:hover {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
@@ -229,7 +230,7 @@ header .navbar ul li a:hover {
 .home .content h2 span {
   font-size: 5rem;
   font-weight: 800;
-  color: #ff7b00;
+  color: #4e588b;
 }
 .home .content p {
   font-size: 2.5rem;
@@ -239,7 +240,7 @@ header .navbar ul li a:hover {
 }
 .home .content p span {
   font-size: 2.5rem;
-  color: rgb(148, 8, 8);
+  color: #e5d398;
   font-weight: 600;
   padding: 1rem 0;
 }
@@ -251,8 +252,7 @@ header .navbar ul li a:hover {
   border-radius: 4em;
   transition: 0.5s;
   color: #fff;
-  background: #2506ad;
-  box-shadow: 0px 5px 18px rgba(48, 68, 247, 0.6);
+  background: #243876;
   font-family: "Nunito", sans-serif;
 }
 .home .btn span {
@@ -289,7 +289,7 @@ header .navbar ul li a:hover {
   font-size: 2rem;
   display: inline-block;
   line-height: 44px;
-  color: #00d9ff;
+  color: #d0d4eb;
   background-color: #09011b;
   width: 44px;
   height: 44px;
@@ -415,7 +415,6 @@ header .navbar ul li a:hover {
   transition: 0.3s;
   color: #fff;
   background: #243876;
-  box-shadow: 0px 5px 10px rgb(36, 56, 118);
   font-family: "Nunito", sans-serif;
 }
 .resumebtn .btn span {
@@ -742,7 +741,6 @@ header .navbar ul li a:hover {
   color: rgb(255, 255, 255);
   font-weight: 700;
   border: 2px solid #fff;
-  box-shadow: 0px 5px 10px rgba(65, 84, 241, 0.4);
   text-align: center;
 }
 .work img{
@@ -876,8 +874,7 @@ header .navbar ul li a:hover {
   border-radius: 0.5em;
   transition: 0.5s;
   color: #fff;
-  background: #2506ad;
-  box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
+  background: #243876;
   text-align: center;
 }
 .morebtn .btn span {
@@ -1049,8 +1046,7 @@ form .button-area {
   cursor: pointer;
   border-radius: 5px;
   padding: 13px 25px;
-  background: #2506ad;
-  box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
+  background: #243876;
   transition: 0.3s ease;
   font-family: "Nunito", sans-serif;
 }
