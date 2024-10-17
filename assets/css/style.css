@@ -365,12 +365,12 @@ header .navbar ul li a:hover {
   height: auto;
   border-radius: 5%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);
-  mix-blend-mode: luminosity;
+  mix-blend-mode: normal;
   transition: 0.3s;
   cursor: pointer;
 }
 .about .row .image img:hover {
-  mix-blend-mode: normal;
+  mix-blend-mode: luminosity;
 }
 .about .row .content {
   flex: 1 1 45rem;
@@ -468,6 +468,10 @@ header .navbar ul li a:hover {
 }
 .skills .heading span {
   color: #e5d398;
+}
+
+.info img{
+  filter: contrast(0.75);
 }
 .skills .container {
   background: rgba(0, 0, 22, 0.4);
@@ -740,6 +744,9 @@ header .navbar ul li a:hover {
   border: 2px solid #fff;
   box-shadow: 0px 5px 10px rgba(65, 84, 241, 0.4);
   text-align: center;
+}
+.work img{
+ filter: grayscale(100%);
 }
 .work .viewall .btn span {
   font-weight: 600;
