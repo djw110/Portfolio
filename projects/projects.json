@@ -30,12 +30,12 @@
     }
   },
   {
-    "name": "Mining World",
-    "desc": "Used lua to create a virtual MMO where players fight monsters and explore alien planets. Garnered ver 60,000 players world-wide.",
+    "name": "ROBLOX Video Games",
+    "desc": "Used lua to create a number of multiplayer videogames on ROBLOX. Several of these were personal projects and others were part of large teams; several of these have gone on to garner several million players and have generated thousands of dollars in revenue.",
     "image": "roblox",
     "category": "game",
     "links": {
-      "view": "https://www.roblox.com/games/4698294459/Mining-World",
+      "view": "https://create.roblox.com/talent/creators/39989956",
       "code": "https://github.com/"
     }
   }
