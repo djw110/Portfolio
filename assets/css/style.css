@@ -460,7 +460,7 @@ header .navbar ul li a:hover {
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: linear-gradient(to bottom, #1c214e, #1c214e);
+  background: linear-gradient(to bottom, #d0d6ff, #1c2258);
 }
 .skills h2 {
   color: #fff;
@@ -644,7 +644,7 @@ header .navbar ul li a:hover {
 /* work section starts */
 .work {
   /* background: #010124; */
-  background: linear-gradient(to bottom, #d0d6ff, #1c2258);
+  background: linear-gradient(to bottom, #1c2258, #1c2258);
 }
 .work h2 {
   color: #fff;
