@@ -702,7 +702,7 @@ header .navbar ul li a:hover {
   color: #ffffff;
 }
 .work .box-container .box:hover .content {
-  top: 25%;
+  top: 0%;
 }
 .work .desc {
   margin: 2rem;

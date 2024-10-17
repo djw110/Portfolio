@@ -29,6 +29,7 @@ html{
   font-size: 62.5%;
   overflow-x: hidden;
 }
+/*
 html::-webkit-scrollbar{
   width: .8rem;
 }
@@ -38,6 +39,8 @@ html::-webkit-scrollbar-track{
 html::-webkit-scrollbar-thumb{
   background: #420177;
 }
+
+ */
 
 /* navbar starts */
 header{
@@ -241,7 +244,7 @@ header .navbar ul li a:hover{
   color: #ffffff;
 }
 .work .box-container .box:hover .content{
-  top: 25%;
+  top: 0%;
 }
 .work .desc {
   margin: 2rem;
