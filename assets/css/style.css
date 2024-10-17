@@ -30,15 +30,18 @@ html {
   font-size: 62.5%;
   overflow-x: hidden;
 }
+/*
 html::-webkit-scrollbar {
   width: 0.8rem;
 }
 html::-webkit-scrollbar-track {
   background: rgb(235, 202, 245);
 }
+
 html::-webkit-scrollbar-thumb {
   background: #420177;
 }
+ */
 
 /* pre loader start */
 .loader-container {
@@ -646,7 +649,7 @@ header .navbar ul li a:hover {
 /* work section starts */
 .work {
   /* background: #010124; */
-  background: linear-gradient(to bottom, #1c2258, #1c2258);
+  background: linear-gradient(to bottom, #1c2258, #d0d6ff);
 }
 .work h2 {
   color: #fff;
@@ -745,7 +748,6 @@ header .navbar ul li a:hover {
   text-align: center;
 }
 .work img{
- filter: grayscale(100%);
 }
 .work .viewall .btn span {
   font-weight: 600;

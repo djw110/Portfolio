@@ -72,7 +72,7 @@ function(){
         $("#favicon").attr("href","/assets/images/favicon.jpg");
     }
     else {
-        document.title = "Come Back To Portfolio";
+        document.title = "Daniel Whooley";
         $("#favicon").attr("href","/assets/images/favicon.png");
     }
 });
