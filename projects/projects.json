@@ -11,11 +11,21 @@
   },
   {
     "name": "CATBooks",
-    "desc": "Created a database and designed a book-sharing website where users can post books and add reviews/comments. Calculates ratings, stores user data, and shows top performing books",
+    "desc": "Built a book-sharing website where users can post books and add reviews/comments. Calculates ratings, stores user data using MySQL, and features top performing books",
     "image": "catbooks",
     "category": "web",
     "links": {
       "view": "https://dwhooley.w3.uvm.edu/cs1080/final/",
+      "code": "https://github.com/"
+    }
+  },
+  {
+    "name": "E-Resume",
+    "desc": "Designed the structure and styling of a personal portfolio website. Established and registers appropriate domains. Javascript forked from Jigar Sable.",
+    "image": "portfolio",
+    "category": "web",
+    "links": {
+      "view": "https://danwhooley.com/",
       "code": "https://github.com/"
     }
   },
