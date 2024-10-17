@@ -21,7 +21,7 @@ body{
 }
 
 *::selection{
-  background: #2b3dda;
+  background: #4e588b;
   color: #fff;
 }
 
@@ -95,8 +95,8 @@ header .navbar ul li a{
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover{
-  color: #011aff;
-  border-bottom: .2rem solid #011aff;
+  color: #4e588b;
+  border-bottom: .2rem solid #4e588b;
   padding: .5rem 0;
 }
 /* navbar ends */
@@ -144,7 +144,7 @@ header .navbar ul li a:hover{
     padding: 1rem;
     color: #fff;
     border-radius: .5rem;
-    border-bottom: .5rem solid #011aff;
+    border-bottom: .5rem solid #4e588b;
   }
   .fa-times{
     transform: rotate(180deg);
@@ -158,7 +158,7 @@ header .navbar ul li a:hover{
 /* work section starts */
 .work{
   /* background: #010124; */
-  background: linear-gradient(to bottom, #010136, #00003a);
+  background: linear-gradient(to bottom, #1c2258, #d0d6ff);
   margin-top: 5rem;
 }
 .work h2{
@@ -166,7 +166,7 @@ header .navbar ul li a:hover{
   padding: 1rem;
 }
 .work .heading span{
-  color: rgb(255, 230, 0);
+  color: #e5d398;
 }
 .work .button-group{
   display: flex;
@@ -233,10 +233,12 @@ header .navbar ul li a:hover{
   height: 4.5rem;
   width: 100%;
   padding-left: 1rem;
-  background: #ffd900;
+  background: #000431;
+;
 }
 .work .box-container .box .content .tag h3{
   font-size: 2rem;
+  color: #ffffff;
 }
 .work .box-container .box:hover .content{
   top: 25%;
@@ -347,7 +349,10 @@ header .navbar ul li a:hover{
   transition: 1s linear;
   z-index: 1000;
 }
+/*
 #scroll-top.active{
   top: calc(100% - 12rem);
 }
+
+ */
 /* scroll top ends */
