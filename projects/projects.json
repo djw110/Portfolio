@@ -20,16 +20,6 @@
     }
   },
   {
-    "name": "E-Resume",
-    "desc": "Designed the structure and styling of a personal portfolio website. Established and registers appropriate domains. Javascript forked from Jigar Sable.",
-    "image": "portfolio",
-    "category": "web",
-    "links": {
-      "view": "https://danwhooley.com/",
-      "code": "https://github.com/"
-    }
-  },
-  {
     "name": "Mining World",
     "desc": "Used lua to create a virtual MMO where players fight monsters and explore alien planets. Generated several thousands of dollars in personal revenue with over 60,000 players world-wide.",
     "image": "roblox",
