@@ -289,7 +289,7 @@ header .navbar ul li a:hover {
   font-size: 2rem;
   display: inline-block;
   line-height: 44px;
-  color: #d0d4eb;
+  color: #fff;
   background-color: #09011b;
   width: 44px;
   height: 44px;
@@ -460,7 +460,7 @@ header .navbar ul li a:hover {
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: linear-gradient(to bottom, #d0d6ff, #1c2258);
+  background: linear-gradient(to bottom, #1c214e, #1c214e);
 }
 .skills h2 {
   color: #fff;
@@ -473,7 +473,6 @@ header .navbar ul li a:hover {
   filter: contrast(0.75);
 }
 .skills .container {
-  background: rgba(0, 0, 22, 0.4);
   color: #fff;
   border-radius: 1rem;
   padding: 2rem;
@@ -1223,7 +1222,10 @@ form .button-area {
   transition: 1s linear;
   z-index: 1000;
 }
+
 #scroll-top.active {
+  /*
   top: calc(100% - 12rem);
+   */
 }
 /* scroll top ends */
