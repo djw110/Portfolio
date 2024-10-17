@@ -308,6 +308,7 @@ header .navbar ul li a:hover {
 }
 .social-icons a.github:hover {
   background-color: #0e0e0e;
+  color: #ff7622;
 }
 .social-icons a.twitter:hover {
   background-color: #00aced;
@@ -316,7 +317,7 @@ header .navbar ul li a:hover {
   background-color: #007bb6;
 }
 .social-icons a.dev:hover {
-  background-color: #070707;
+  background-color: #d72121;
 }
 .social-icons a.instagram:hover {
   background-color: #ee00da;
