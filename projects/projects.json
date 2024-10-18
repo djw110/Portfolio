@@ -1,11 +1,21 @@
 [
   {
     "name": "PiPedal",
-    "desc": "Built and programmed a 'smart' guitar pedal and an accompanying graphical interface. The pedal uses neural networks to detect and approximate effects from other guitar pedals to copy them. When connected to a guitar, the device can apply any copied guitar pedal's effects to the analog sound as determined by the user on the GUI.",
+    "desc": "Built and programmed a 'smart' guitar pedal and an accompanying graphical interface. The pedal uses neural networks to detect and approximate effects from other guitar pedals to copy them. When connected to a guitar, the device can apply any copied guitar pedal's effects to the analog sound.",
     "image": "fireseekerplot",
     "category": "ml",
     "links": {
       "view": "https://www.linkedin.com/posts/",
+      "code": "https://github.com/"
+    }
+  },
+  {
+    "name": "Mining World",
+    "desc": "Programmed a massively multiplayer online video game where players defeat monsters, collect valuable ore, craft items, and explore alien planets. This was done predominantly in lua, and the project went on to garner tens of thousands of players.",
+    "image": "roblox",
+    "category": "game",
+    "links": {
+      "view": "https://www.roblox.com/games/4698294459/Mining-World",
       "code": "https://github.com/"
     }
   },
@@ -29,14 +39,4 @@
       "code": "https://github.com/djw110/Battleship"
     }
   },
-  {
-    "name": "Mining World",
-    "desc": "Programmed a massively multiplayer online video game where players defeat monsters, collect valuable ore, craft items, and explore alien planets. This was done predominantly in lua, and the project went on to garner tens of thousands of players world-wide and generate thousands of dollars in revenue.",
-    "image": "roblox",
-    "category": "game",
-    "links": {
-      "view": "https://www.roblox.com/games/4698294459/Mining-World",
-      "code": "https://github.com/"
-    }
-  }
 ]
