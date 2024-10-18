@@ -1,7 +1,7 @@
 [
   {
     "name": "PiPedal",
-    "desc": "Built and programmed a guitar pedal and it's own online application. Uses neural networks to detect external sound effects and replicate them.",
+    "desc": "Built and programmed a 'smart' guitar pedal and an accompanying graphical interface. The pedal uses neural networks to detect and approximate effects from other guitar pedals to copy them. When connected to a guitar, the device can apply any copied guitar pedal's effects to the analog sound as determined by the user on the GUI.",
     "image": "fireseekerplot",
     "category": "ml",
     "links": {
