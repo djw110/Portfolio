@@ -30,12 +30,12 @@
     }
   },
   {
-    "name": "ROBLOX Video Games",
-    "desc": "Used lua to create a number of multiplayer videogames on ROBLOX. Several of these were personal projects and others were part of large teams; several of these have gone on to garner several million players and have generated thousands of dollars in revenue.",
+    "name": "Mining World",
+    "desc": "Programmed a massively multiplayer online video game where players defeat monsters, collect valuable ore, craft items, and explore alien planets. This was done predominantly in lua, and the project went on to garner tens of thousands of players world-wide and generate thousands of dollars in revenue.",
     "image": "roblox",
     "category": "game",
     "links": {
-      "view": "https://www.roblox.com/groups/5646344/Whoolio#!/about",
+      "view": "https://www.roblox.com/games/4698294459/Mining-World",
       "code": "https://github.com/"
     }
   }
