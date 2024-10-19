@@ -28,15 +28,5 @@
       "view": "https://dwhooley.w3.uvm.edu/cs1080/final/",
       "code": "https://github.com/djw110/CATBooks"
     }
-  },
-  {
-    "name": "Battleship",
-    "desc": "Created a Battleship simulator game using Java. Game is played through the console against a basic AI.",
-    "image": "battleship",
-    "category": "game",
-    "links": {
-      "view": "https://github.com/djw110/Battleship",
-      "code": "https://github.com/djw110/Battleship"
-    }
   }
 ]
