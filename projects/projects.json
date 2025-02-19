@@ -2,10 +2,10 @@
   {
     "name": "Doppelgänger",
     "desc": "Built and programmed a 'smart' guitar pedal with a graphical interface. The pedal uses neural networks to detect and approximate effects from other guitar pedals to copy them. When connected to a guitar, the device can apply any copied guitar pedal's effects to the analog sound.",
-    "image": "fireseekerplot",
+    "image": "doppelganger",
     "category": "embedded",
     "links": {
-      "view": "https://www.linkedin.com/posts/",
+      "view": "https://www.youtube.com/shorts/78Qzv-Y2A3s",
       "code": "https://github.com/westeegarden/Doppelganger-NeuralPi"
     }
   },
