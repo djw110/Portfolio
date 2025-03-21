@@ -13,19 +13,13 @@
         "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
     },
     {
-        "name": "Bash",
-        "icon": "https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000"
-    },
-
-    {
-        "name": "PowerShell",
-        "icon": "https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000"
-    },
-    {
         "name": "Lua",
         "icon": "https://img.icons8.com/?size=100&id=mazno5QJBBis&format=png&color=000000"
     },
-
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/?size=100&id=13406&format=png&color=000000"
+    },
     {
         "name": "Git",
         "icon": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
