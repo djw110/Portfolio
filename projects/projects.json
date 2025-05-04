@@ -3,7 +3,7 @@
     "name": "WaveView",
     "desc": "Programmed an audio visualizer from scratch using C++ and OpenGL. It takes a .wav file as an argument, opens a graphical display window and plays the sound back while visualizing it in real-time.",
     "image": "waveview",
-    "category": "low",
+    "category": "app",
     "links": {
       "view": "https://www.youtube.com/watch?v=MciS16tSC68&t=51s",
       "code": "https://github.com/djw110/WaveView"
@@ -13,7 +13,7 @@
     "name": "Doppelgänger",
     "desc": "Built and programmed a 'smart' guitar pedal with a graphical interface. The pedal uses neural networks to detect and approximate effects from other guitar pedals to copy them. When connected to a guitar, the device can apply any copied guitar pedal's effects to the analog sound.",
     "image": "doppelganger",
-    "category": "low",
+    "category": "app",
     "links": {
       "view": "https://www.youtube.com/shorts/78Qzv-Y2A3s",
       "code": "https://github.com/westeegarden/Doppelganger-NeuralPi"
