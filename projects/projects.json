@@ -23,7 +23,7 @@
     "name": "Mining World",
     "desc": "Programmed a massively multiplayer online video game where players defeat monsters, collect valuable ore, craft items, and explore alien planets. This was done predominantly in lua, and the project went on to garner tens of thousands of players.",
     "image": "roblox",
-    "category": "game",
+    "category": "app",
     "links": {
       "view": "https://www.roblox.com/games/4698294459/Mining-World",
       "code": "https://github.com/"
