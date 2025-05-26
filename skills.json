@@ -41,7 +41,12 @@
         "icon": "https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000"
     },
     {
-        "name": "MariaDB",
-        "icon": "https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000"
+        "name": "Jupyter Notebook",
+        "icon": "https://img.icons8.com/?size=100&id=0JUBXbNc9AaZ&format=png&color=000000"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"
     }
+
 ]
