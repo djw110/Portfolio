@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Neural Networks", "Audio Technology", "Network Theory", "Data Exploration"],
+    strings: ["Computer Security", "Operating Systems", "Microcontrollers", "Firmware Interface"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
